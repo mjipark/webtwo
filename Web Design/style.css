@@ -1,0 +1,37 @@
+body{
+  background-color: #ff8e71;
+  text-align: center;
+}
+
+.img-cat{
+  border-radius: 50%;
+  top: 60px;
+  position: relative;
+  width: 250px;
+  height: 250px;
+
+}
+.heading-one{
+  display: inline;
+  padding: 20px;
+  border: solid;
+  border-width: 5px;
+  border-color: #ffba93;
+  border-radius: 30px;
+position: relative;
+top: 50px;
+color: #f0e2d0;
+
+}
+.heading-two{
+  position: relative;
+  top: 50px;
+  color: #f0e2d0;
+}
+.paragraph{
+  position: relative;
+  top: 50px;
+  font-size: 32px;
+  color: #f0e2d0;
+
+}
